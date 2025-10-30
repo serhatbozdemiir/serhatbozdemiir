@@ -8,7 +8,7 @@ C# ve .NET teknolojilerinde kendimi geliştiriyor ve modern projeler üzerinde �
 
 ## Teknoloji Bilgilerim
 - **Backend:** C#, ASP.NET, Windows Forms
-- **Database:** MSSQL, Access, Entity Framework
+- **Database:** MSSQL, Access
 - **Frontend:** HTML, CSS
 - **Araçlar:** Visual Studio, Git, GitHub
 
