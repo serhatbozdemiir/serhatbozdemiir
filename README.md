@@ -15,6 +15,7 @@ C# ve .NET teknolojilerinde kendimi geliştiriyor ve modern projeler üzerinde �
 ##  Projelerim
 - [ Hastane Randevu Sistemi](https://github.com/serhatbozdemiir/Hastane-Randevu-Takip)
 - [ Bilgisayar Kursu Takip Sistemi](https://github.com/serhatbozdemiir/Bilgisayar-Kursu-Takip-Sistemi)
+- [ Oyun Tanitim Web Sitesi](https://github.com/serhatbozdemiir/Oyun-Tanitim-Web-Sitesi)
 - [ Kelime Tahmin Oyunu](https://github.com/serhatbozdemiir/Kelime-Tahmin-Oyunu)
 - [ Anket ve Oylama Sistemi](https://github.com/serhatbozdemiir/Anket-Tanitim-ve-Oylama-Sistemi)
 
