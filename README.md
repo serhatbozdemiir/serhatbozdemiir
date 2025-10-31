@@ -1,7 +1,7 @@
 Merhaba, Ben Serhat Bozdemir
 
 ##  C# & .NET Geliştirici
-Bilgisayar Programcılığı Teknikeri | Backend Developer
+Bilgisayar Programcılığı Teknikeri | Frontend - Backend Developer
 
 ##  Hakkımda
 C# ve .NET teknolojilerinde kendimi geliştiriyor ve modern projeler üzerinde çalışıyorum.
