@@ -30,4 +30,4 @@ C# ve .NET teknolojilerinde kendimi geliştiriyor ve modern projeler üzerinde �
 ##  Hedeflerim
 - **Backend:** ASP.NET Core ve modern backend teknolojilerinde uzmanlaşmak
 - **Frontend:** JavaScript ve modern web teknolojilerini öğrenmek
-- **Full-Stack:** Backend odaklı full-stack developer olarak kendimi geliştirmek
+- **Full-Stack:** Full-stack developer olarak kendimi geliştirmek
